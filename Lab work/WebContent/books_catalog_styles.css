@@ -1,0 +1,36 @@
+@charset "UTF-8";
+div{
+
+   background: white;
+	margin:auto;
+	width:700px;
+	border-radius:12px;	
+	margin-top:70px;
+	height:500px;
+	font-size: 18px;
+}
+body{
+	background-color: #babfbd;
+}
+h1{
+	
+	padding-top:50px;
+     padding-bottom: 10px;
+     padding-left:60px;
+    
+}
+
+ul{
+	
+	padding-left:150;
+	font-size:18px;
+	
+
+}
+a{
+	text-decoration:none;
+	color:black;
+	padding-left:150;
+	
+}
+
